@@ -1,3 +1,4 @@
+// For smooth scrolling between sections
 document.addEventListener('DOMContentLoaded', function() {
     const sections = document.querySelectorAll('section');
 
