@@ -1,4 +1,4 @@
-Great Wall of China Web Presentation
+# Great Wall of China WebPage using Parallax Scrolling
 This web project offers an interactive presentation about the Great Wall of China. The site provides insightful facts, historical information, and engaging visuals to explore this iconic landmark.
 
 Features
