@@ -8,7 +8,7 @@ body , html {
   color: #212121;
   }
 
-  .pimg1, .pimg2, .pimg3, .pimg4, .pimg5 {
+  .pimg1, .pimg2, .pimg3, .pimg4, .pimg5, .pimg6, .pimg7, .pimg8 {
 
     position: relative;
     opacity: 0.8;
@@ -43,6 +43,21 @@ body , html {
     min-height: 100%;
   }
 
+  .pimg6 {
+    background-image: url("../images/img6.jpg");
+    min-height: 100%;
+  }
+
+  .pimg7 {
+    background-image: url("../images/img7.webp");
+    min-height: 100%;
+  }
+
+  .pimg8 {
+    background-image: url("../images/img8.jpeg");
+    min-height: 100%;
+  }
+
   .ptext {
     position: absolute;
     top: 50%;
@@ -58,7 +73,7 @@ body , html {
     padding: 20px;
   }
 
-  .section1, .section2, .section3, .section4 {
+  .section1, .section2, .section3, .section4, .section5, .section6, .section7 {
     text-align: center;
     color: #212121;
   }
